@@ -1,25 +1,25 @@
 <a name="readme-top"></a>
-f
-<br />
-<div align="center">d
-  <a href="https://github.com/benmotyka/my-plants_app">xa
+
+<br />f
+<div align="center">
+  <a href="https://github.com/benmotyka/my-plants_app">
     <img src="readme/banner.png" alt="Banner">
-  </a>
-  <h1 align="center">My Plants</h1>f
-  <h5 align="center">Mobile App</h5>d
+  </a>ddh
+  <h1 align="center">My Plansdsts</h1>
+  <h5 align="center">Mobile App</h5>
   <p align="center">
     <a href="https://github.com/benmotyka/my-plants_app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/benmotyka/my-plants_app/issues">Request Feature</a>
+    <a href="https://github.com/benmotyka/my-plants_app/issues">Request Feature</a>s
   </p>
-</div>v
-
-<!-- TABLE OF CONTENTS -->edsv
+</div>vdf
+d
+<!-- TABLE OF CONTENTS -->edsvj
 <details>
   <summary>Table of Contents</summary>
-  <ol>
+  <ol>ssss
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About The Puyroject</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
