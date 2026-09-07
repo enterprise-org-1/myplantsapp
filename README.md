@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/benmotyka/my-plants_app">
     <img src="readme/banner.png" alt="Banner">
-  </a>dd
+  </a>ddh
   <h1 align="center">My Plansdsts</h1>
   <h5 align="center">Mobile App</h5>
   <p align="center">
